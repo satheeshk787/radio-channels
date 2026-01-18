@@ -4,6 +4,27 @@
     "url": "http://radiomangalam.in:8000/stream"
   },
   {
+    "name": "Air Rainbow 107.5",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8"
+  },
+  {
+    "name": "AIR Kochi 102.3",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8"
+  },
+  {
+    "name": "AIR Alappuzha",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8"
+  },
+  
+  {
+    "name": "AIR Thrissur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8"
+  },
+  {
+    "name": "RADIO MANGO",
+    "url": "https://listen.openstream.co/4635/audio"
+  },
+  {
     "name": "RADIO MALAYALAM",
     "url": "https://radiomalayalamfm.com/radio/8000/radio.mp3"
   },
@@ -11,4 +32,6 @@
     "name": "RADIO GUARDAN",
     "url": "https://radio.garden/api/ara/content/listen/pLQMWW3Z/channel.mp3"
   }
+
+  
 ]
