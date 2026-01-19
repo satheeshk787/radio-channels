@@ -2,57 +2,62 @@
   {
     "name": "RADIO MANGALAM",
     "url": "http://radiomangalam.in:8000/stream",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "Air Rainbow 107.5",
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "AIR Kochi 102.3",
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "AIR Alappuzha",
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "AIR Thrissur",
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "Ananthapuri FM 101.9",
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/chunklist.m3u8",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "Ente Radio",
     "url": "http://cast1.my-control-panel.com/proxy/enteradio/stream",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "RADIO MANGO",
     "url": "https://listen.openstream.co/4635/audio",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "RADIO MALAYALAM",
     "url": "https://radiomalayalamfm.com/radio/8000/radio.mp3",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
     "name": "RADIO GUARDAN",
     "url": "https://radio.garden/api/ara/content/listen/pLQMWW3Z/channel.mp3",
-    "language": "ml"
+    "language": "Malayalam"
   },
   {
-    "name": "Radio Mirchi 98.3 FM",
+    "name": "Radio Mirchi Hindi",
     "url": "https://eu8.fastcast4u.com/proxy/clyedupq",
-    "language": "all"
+    "language": "Hindi"
+  },
+  {
+    "name": "Radio Mirchi Thamil",
+    "url": "https://listen.openstream.co/4543/audio",
+    "language": "Tamil"
   }
 
   
