@@ -50,7 +50,17 @@
     "language": "Malayalam"
   },
   {
-    "name": "Malayalam Bhakti Songs",
+    "name": "Sargakshetra FM",
+    "url": "https://icecast.octosignals.com/sargakshetrafm",
+    "language": "Malayalam"
+  },
+  {
+    "name": "New Malayalam",
+    "url": "https://stream.zeno.fm/ecn7y019e2zuv",
+    "language": "Malayalam"
+  },
+  {
+    "name": "Hindu Devotional",
     "url": "https://stream.zeno.fm/08e1vkshcc9uv",
     "language": "Malayalam"
   },
