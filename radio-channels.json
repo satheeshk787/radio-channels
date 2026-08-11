@@ -73,7 +73,10 @@
     "name": "Radio Mirchi Thamil",
     "url": "https://listen.openstream.co/4543/audio",
     "language": "Tamil"
+  },
+  {
+    "name": "Radio BBC World Service",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "language": "English"
   }
-
-  
 ]
