@@ -37,7 +37,8 @@
   {
     "name": "RADIO MANGO",
     "url": "https://radio.tamilfmradios.com/?id=radiomango",
-    "language": "Malayalam"
+    "language": "Malayalam",
+    "header": "https://radiosindia.com/",
   },
   {
     "name": "Red 93.5 FM",
